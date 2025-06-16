@@ -30,12 +30,10 @@ RESOLVERS=(
     "193.19.108.2,Mullvad"
     "185.222.222.222,DNS.SB (Privacy)"
     # --- Servidores DNS de Metrotel (Etiquetados según uso y registro) ---
-    "200.42.0.5,Metrotel (Oficial)"
-    "200.42.4.5,Metrotel (Oficial Sec.)"
-    "190.12.96.195,Metrotel (vía red Telecom)"
-    "190.12.96.251,Metrotel (vía red Telecom)"
-    "200.110.216.250,Metrotel (vía red Telecom)"
-    "190.111.233.107,Metrotel (vía red Telecom)"
+    "190.12.96.195,Metrotel"
+    "190.12.96.251,Metrotel"
+    "200.110.216.250,Metrotel"
+    "190.111.233.107,Metrotel"
     # --- Servidores DNS de Otros Proveedores Locales ---
     "181.30.128.254,Telecentro"
     "200.63.159.227,iPlan"
